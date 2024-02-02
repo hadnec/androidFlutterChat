@@ -1,16 +1,11 @@
-# test_drive
+Android Flutter Chat
+Showcase
+https://youtu.be/HwgJc3QA3q8
+Opis aplikacji, motywacja do projektu:
+Moja aplikacja to platforma czatowa, która umożliwia użytkownikom prowadzenie rozmów tekstowych z innymi użytkownikami. Motywacją do tego projektu było zrozumienie i praktyczne zastosowanie technologii Flutter oraz praca nad projektem, który ma realne zastosowanie i może być rozwijany w przyszłości.
 
-A new Flutter project.
+Na czym bazowała (jeśli to dostosowanie przykładu):
+Aplikacja została stworzona w oparciu o technologię Flutter, która umożliwia budowanie aplikacji na wiele platform za pomocą jednego kodu. Chociaż nie bazowała bezpośrednio na żadnym konkretnym przykładzie, korzystała z różnych bibliotek i narzędzi dostępnych w społeczności Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Czego się nauczyłem, co było szczególną trudnością:
+Praca nad tym projektem pozwoliła mi na lepsze zrozumienie języka Dart oraz platformy Flutter. Pozwoliło mi to również na doskonalenie umiejętności związanych z projektowaniem interfejsu użytkownika, zarządzaniem stanem aplikacji oraz integracją zewnętrznych bibliotek. Jedną z głównych trudności było radzenie sobie z asynchronicznymi operacjami, takimi jak pobieranie i zapisywanie danych w lokalnej pamięci urządzenia. Jednakże dzięki temu doświadczeniu, udało mi się lepiej zrozumieć mechanizmy działania aplikacji mobilnych oraz rozwiązywać problemy na bieżąco.
