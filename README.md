@@ -1,6 +1,6 @@
 Android Flutter Chat
 Showcase
-https://youtu.be/HwgJc3QA3q8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwgJc3QA3q8?si=YG7SlK9OaXFBiAsx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 Opis aplikacji, motywacja do projektu:
 Moja aplikacja to platforma czatowa, która umożliwia użytkownikom prowadzenie rozmów tekstowych z innymi użytkownikami. Motywacją do tego projektu było zrozumienie i praktyczne zastosowanie technologii Flutter oraz praca nad projektem, który ma realne zastosowanie i może być rozwijany w przyszłości.
 
